@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hello! 👋 
 
-<!--
-**kagangtp/kagangtp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kağan, a student developer. I am constantly exploring new technologies and am currently focused on building my foundation and learning through hands-on projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies I'm familiar with
+* Kotlin
+* Angular
+* Spring Boot
+* PHP
+* R & Statistics
+* Firebase
+* Android Studio
+* Unity
+* Java
+* HTML
+* CSS
+* JavaScript
+* Phyton
+* Linux OS
+* C
+* And more...
+
+---
+
+### 📚 What I'm currently learning
+* Angular & Spring Web Development
+* Advanced Security Integrations
+
+---
+
+### 📫 Get in touch
+I’m always open to connecting with recruiters or fellow developers! 
