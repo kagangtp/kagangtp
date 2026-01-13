@@ -4,7 +4,7 @@ I'm Kağan, a student developer. I am constantly exploring new technologies and 
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools I'm Familiar With
 
 **Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,9 +26,12 @@ I'm Kağan, a student developer. I am constantly exploring new technologies and 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Game Dev & OS**
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+**Testing & Tools**
+![Cypress](https://img.shields.io/badge/-cypress-%2369AD32?style=for-the-badge&logo=cypress&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Game Development**
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
