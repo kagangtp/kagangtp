@@ -5,22 +5,12 @@ I'm Kağan, a student developer. I am constantly exploring new technologies and 
 ---
 
 ### 🛠️ Technologies I'm familiar with
-* Kotlin
-* Angular
-* Spring Boot
-* PHP
-* R & Statistics
-* Firebase
-* Android Studio
-* Unity
-* Java
-* HTML
-* CSS
-* JavaScript
-* Phyton
-* Linux OS
-* C
-* And more...
+* Kotlin * Angular * Spring Boot
+* PHP * R & Statistics * Firebase
+* Android Studio * Unity * Java
+* HTML * CSS * JavaScript
+* Phyton * Linux OS * C
+* Oracle DB
 
 ---
 
